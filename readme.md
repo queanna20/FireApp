@@ -1,4 +1,4 @@
-# FIREAPP-02
+# FIREAPP
 
 ### Introduction
 
