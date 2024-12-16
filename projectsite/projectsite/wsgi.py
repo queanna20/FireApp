@@ -3,7 +3,7 @@ import sys
 
 #path where you can find the mange.py
 
-path = '/home/fireapp25/fireapp25/FireApp/projectsite'
+path = '/home/fireapp25/FireApp-main/projectsite/projectsite'
 if path not in sys.path:
     sys.path.insert(0, path)
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "projectsite.settings")
